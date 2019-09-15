@@ -1,0 +1,12 @@
+npm install axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment
+
+axios for Http requests: better than http header as helps in creating global headers and stuff
+react-router is required
+redux-thunk allows us to make asynchronous requests in our actions
+moment: date and time library
+react-moment: so that we can use moment within the react components
+
+
+We create a proxy: because we dont want to create an axios request with a full https address
+we would want to call just by the route like : /app/something
+therefore add proxy in package.json

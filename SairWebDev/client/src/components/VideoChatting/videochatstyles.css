@@ -1,0 +1,34 @@
+.video-box {
+  background-color: #797676;
+  margin: 20px;
+  width: 40%;
+  min-height: 400px;
+  min-width: 40%;
+}
+.message-box {
+  background-color: #444444;
+  overflow-y: auto;
+  min-height: 200px;
+  min-width: 200px;
+}
+.parent-box {
+  /* display: inline-block;
+   */
+  background-color: #343434;
+  min-height: 480px;
+  margin: 30px;
+}
+
+#block_container {
+  display: flex;
+  justify-content: center;
+  background-color: #343434;
+  min-height: 480px;
+  color: #ffffff;
+  margin: 30px;
+}
+
+#block_container > div {
+  display: inline-block;
+  vertical-align: middle;
+}

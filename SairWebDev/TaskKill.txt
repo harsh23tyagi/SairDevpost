@@ -1,0 +1,7 @@
+#!/bin/bash
+echo hello world
+lsof -i tcp:5000
+# How to set up bash command script
+# go to get info of the script and unlock from bottom 
+# then go to the holding directory from terminal and change it into executable script by chmod 700 Script name
+# to execute ./ScriptName
