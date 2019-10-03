@@ -1,7 +1,8 @@
 ### _This project is a submission to facebook's Developer Circle remote hackathon and is built in just 20 days_
 
-## Inspiration
+### \_Devpost Link: https://devpost.com/software/sair-vr-video-chat-platform
 
+## Inspiration
 
 Sometimes we just want our family and friends to be with us, even if we are miles away from them. The closest we get to this is video chatting with them- but it still feels unreal. This very thought inspired me to create an immersive way of video chatting wherein it would seem that the person you are talking to is standing right in front of you and both of the peers are in the same environment using Virtual Reality.
 
@@ -49,5 +50,3 @@ Adding features such as haptic sensor hugs, haptic sensor handshakes, and other 
 
 Github Repo has two sub-directories-(Sair360Web for Virtual Reality App & SairWebDev for Layer1 and Layer2)
 Supports only google chrome for now..
-
-
