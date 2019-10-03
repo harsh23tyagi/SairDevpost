@@ -1,6 +1,6 @@
 ### _This project is a submission to facebook's Developer Circle remote hackathon and is built in just 20 days_
 
-### \_Devpost Link: https://devpost.com/software/sair-vr-video-chat-platform
+### Devpost Link: https://devpost.com/software/sair-vr-video-chat-platform
 
 ## Inspiration
 
